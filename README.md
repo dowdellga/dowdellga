@@ -3,6 +3,10 @@
 ### By Gabrielle Dowdell
 first commit
 
+> [!NOTE]
+> This is syntax for a note
+
+
 <!--
 **dowdellga/dowdellga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
