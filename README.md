@@ -1,4 +1,6 @@
-## Hi there 👋
+# AERSP 424 🚀
+## FA24
+### By Gabrielle Dowdell
 
 <!--
 **dowdellga/dowdellga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
