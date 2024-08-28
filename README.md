@@ -1,14 +1,6 @@
-<!-- ChatGPT told me the steps to push my code to GitHUb
-
 # AERSP 424 🚀
 ## FA24
 ### By Gabrielle Dowdell
-
-git init
-git remote add origin your-repo-url
-git add .
-git commit -m "Your commit message"
-git push -u origin master
 
 
 <!--
