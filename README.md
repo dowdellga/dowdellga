@@ -1,6 +1,17 @@
+git init
+git remote add origin your-repo-url
+git add .
+git commit -m "Your commit message"
+git push -u origin master
+
+<!-- ChatGPT told me the steps to push my code to GitHUb
+
 # AERSP 424 🚀
 ## FA24
 ### By Gabrielle Dowdell
+
+
+
 
 <!--
 **dowdellga/dowdellga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
