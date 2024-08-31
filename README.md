@@ -6,6 +6,8 @@ first commit
 > [!NOTE]
 > This is syntax for a note
 
+> [!Note]
+> Conor added his Project 2 code into this GitHub repository
 
 <!--
 **dowdellga/dowdellga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
